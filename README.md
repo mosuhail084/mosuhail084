@@ -50,10 +50,11 @@
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
 <img alt="linux" src="https://img.shields.io/badge/-Linux-F7B93E?style=for-the-badge&logo=linux&logoColor=black" height="25px"/>  
 <img alt="Android Studio" src="https://img.shields.io/badge/-Android_Studio-FB542B?style=flat-square&logo=android&logoColor=white" height="25px"/>
-<img alt="Ajax" src="https://img.shields.io/badge/-Ajax-F7B93E?style=flat-square&logo=ajax&logoColor=white" height="25px"/>
+<img alt="Ajax" src="https://img.shields.io/badge/-Ajax-F7B93E?style=flat-square&logo=Ajax&logoColor=white" height="25px"/>
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
  <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
+ <img alt="Thymeleaf" src="https://img.shields.io/badge/-Thymeleaf-13aa52?style=flat-square&logo=thymeleaf&logoColor=white"  height="25px"/>
 </p>
 
 <!-- ## 🏁 Badge:
