@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/mosuhail084/mosuhail084/blob/main/masterhead.gif)]()
-<h1 align="center">Hi 👋, I'm Mohd Suhail</h1>
-<!-- <h1 align="center"><img src="https://c.tenor.com/3AhuaFENK-wAAAAi/aaaa.gif" width="60px" height="60px"> I'm Mohd Suhail</h1> -->
+<h1 align="center">Hi 👋, I'm Mohd Suhail <img src="https://c.tenor.com/3AhuaFENK-wAAAAi/aaaa.gif" width="60px" height="60px"></h1>
+
 <h3 align="center">Passionate software developer graduate with a hands-on, high energy approach, well-developed skills in Agile methodology, and an unapologetically user focused philosophy. Have developed several android, iOS, desktop and web apps</h3>
 
 <img align="right" alt="Coding" width="400" src="./programmer.gif">
