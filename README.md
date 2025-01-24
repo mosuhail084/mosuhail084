@@ -57,6 +57,9 @@
  <img alt="Thymeleaf" src="https://img.shields.io/badge/-Thymeleaf-13aa52?style=flat-square&logo=thymeleaf&logoColor=white"  height="25px"/>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="25px"/>
 <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="25px"/>
+ <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="25px"/>
+<img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25px"/>
+<img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" height="25px"/>
 </p>
 
 <!-- ## 🏁 Badge:
