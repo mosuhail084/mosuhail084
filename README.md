@@ -55,6 +55,8 @@
  <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
  <img alt="Thymeleaf" src="https://img.shields.io/badge/-Thymeleaf-13aa52?style=flat-square&logo=thymeleaf&logoColor=white"  height="25px"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="25px"/>
+<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="25px"/>
 </p>
 
 <!-- ## 🏁 Badge:
